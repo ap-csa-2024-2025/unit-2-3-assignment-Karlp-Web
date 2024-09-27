@@ -5,7 +5,7 @@ public class Classwork
   System.out.printFirsLastN("dictionary", 3);
  }
 
-Public static String firstLastN(String word, int n)
+  public static String firstLastN(String word, int n)
  {
 //getting the first n letter
    String output = new String();//first n letters substring from 0 to n=2
