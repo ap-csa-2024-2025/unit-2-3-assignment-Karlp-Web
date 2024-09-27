@@ -2,7 +2,7 @@ public class Classwork
 {
  public static void main(String[] args)
  {
-  System.out.printFirsLastN("dictionary", 3);
+  System.out.println(FirsLastN("dictionary", 3));
  }
 
   public static String firstLastN(String word, int n)
