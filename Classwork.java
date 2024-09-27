@@ -9,7 +9,7 @@ public class Classwork
 
 }
 
-public satic void main(String[] args)
+public static void main(String[] args)
 {
   System.out.printFirsLastN("dictionary", 3);
 }
