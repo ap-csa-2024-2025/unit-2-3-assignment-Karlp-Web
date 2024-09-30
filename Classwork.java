@@ -20,3 +20,24 @@ public class Classwork
    return output;
  }
 }
+
+public class main
+{
+   public static void main(String[] args)
+   {
+      System.out.println("Hellow World");
+      s.substring(2, s.lnegth()):
+   }
+
+   public static String delEnd(String s, int n)
+   {
+      int stoppingPoint = s.length() - n;
+      String output = s.substring(0, stoppingPoint);
+      return output;
+   }
+
+   public static int lengthFirst(String sentence)
+   {
+      
+   }
+}
